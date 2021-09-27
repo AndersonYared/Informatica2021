@@ -1,0 +1,52 @@
+
+<div class="container mt-3">
+<div class="row">
+  <div class="col-md-3 col-sm-6">
+    <div class="card" style="width: 17rem;">
+      <img src="imag/ventas.jpg" height="210px" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Capacitación de Ventas Profesionales</h5>
+        <p class="card-text">Precio: Q 900.00</p>
+        <div class="card-body">
+        <a class="btn btn-dark" href="masinfo.php" role="button">Más Información</a>
+        </div>
+  </div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6">
+<div class="card" style="width: 17rem;">
+  <img src="imag/salud.jpg" height="210px" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Capacitación de Salud (Personal y No Personal)</h5>
+    <p class="card-text">Precio: Q 600.00</p>
+    <div class="card-body">
+      <a class="btn btn-dark" href="masinfo.php" role="button">Más Información</a>
+    </div>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6">
+<div class="card"  style="width: 17rem;">
+<img src="imag/informatica.jpg" height="210px" class="card-img-top" alt="...">
+<div class="card-body">
+  <h5 class="card-title">Capacitación de Informatica</h5>
+  <p class="card-text">Precio: Q 400.00</p>
+  <div class="card-body">
+    <a class="btn btn-dark" href="masinfo.php" role="button">Más Información</a>
+  </div>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6">
+<div class="card"  style="width: 17rem;">
+<img src="imag/electricidad.jpg" height="210px" class="card-img-top" alt="...">
+<div class="card-body">
+  <h5 class="card-title">Capacitacion de Electricidad</h5>
+  <p class="card-text">Precio: Q 350.00</p>
+  <div class="card-body">
+    <a class="btn btn-dark" href="masinfo.php" role="button">Más Información</a>
+</div>
+</div>
+</div>
+</div>
+</div>
